@@ -1,0 +1,15 @@
+nav a {
+	color: orange;
+	text-decoration: none;
+	vertical-align: middle;
+}
+nav {
+	text-align: right;
+	display: table-cell;
+	vertical-align: middle;
+}
+#Curr {
+	background-color: red;
+	box-shadow: 7px 7px 2px #888888;
+	border: none;
+}
